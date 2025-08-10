@@ -1,0 +1,13 @@
+1. GitHub account
+2. Empty Repo.(mynewrepo)
+3. local system
+    git config --global user.name "Saumya1"
+ git config --global user.email "satyam960274@gmail.com"
+4. git push -u origin master
+      4.1. username? -> Saumya1
+      4.2. password? -> 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
+
+
+
+git commit
+git remote -linking of remote and local repo
